@@ -1,0 +1,16 @@
+Total Words: 0
+Unique Words: 0
+Stop Words: 0
+
+10 Most Frequent
+
+10 Longest
+
+The longest word is null
+The average word length is 0
+
+All
+
+Alphabetic Tree: (Optimum Height: -1) (Actual Height: -1)
+Frequency Tree: (Optimum Height: -1) (Actual Height: -1)
+Length Tree: (Optimum Height: -1) (Actual Height: -1)
